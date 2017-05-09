@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1465341973 source:c:\users\gary\desktop\c++\blackjack\main.cpp
+	<iostream>
+	<vector>
+	"card.h"
+	"deck.h"
+	"Players.h"
+
+1465341355 c:\users\gary\desktop\c++\blackjack\players.h
+	"card.h"
+	<iostream>
+	<vector>
+
+1465341840 source:c:\users\gary\desktop\c++\blackjack\players.cpp
+	"Players.h"
+	<iostream>
+
+1465331109 c:\users\gary\desktop\c++\blackjack\card.h
+	"card.h"
+	<iostream>
+
+1465337111 source:c:\users\gary\desktop\c++\blackjack\card.cpp
+	"card.h"
+	<iostream>
+
+1465340186 source:c:\users\gary\desktop\c++\blackjack\deck.cpp
+	"deck.h"
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1465339974 c:\users\gary\desktop\c++\blackjack\deck.h
+	"card.h"
+	<iostream>
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1465841525 source:c:\users\gary\desktop\c++\practice\main.cpp
+	<string.h>
+	<stdio.h>
+	<iostream>
+
+1465841525 source:c:\users\gary\desktop\c++\practice\palindrome.cpp
+	<string.h>
+	<stdio.h>
+	<iostream>
+

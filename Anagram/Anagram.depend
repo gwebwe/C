@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1473733560 source:c:\users\gary\desktop\c++\anagram\main.cpp
+	<iostream>
+	<string>
+	<algorithm>
+
